@@ -52,5 +52,6 @@ Built by [Manya Kalra](https://github.com/ziennaa)
 
 ---
 
-If you found this helpful, feel free to explore the repo, give a star and suggest improvements!
+<u>If you found this helpful, feel free to explore the repo, give a star and suggest improvements!</u>
+
 
